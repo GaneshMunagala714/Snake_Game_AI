@@ -77,7 +77,7 @@ python game.py
 
 ![Game Screenshot](assets/screenshot.png)
 
-## 👨‍💻 Team Members
+## Team Members
 
 | Name   | Role           |
 |--------|----------------|
